@@ -1,5 +1,9 @@
 # UK Retail Sales Performance Dashboard
 
+## Dashboard Preview
+
+![UK Retail Sales Performance Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project analyses **1,200 fictional UK retail orders from 2025** and
